@@ -1,0 +1,22 @@
+# 操作系统
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 本地工具与会话文件
+.zcode/
+
+# 压缩包与日志
+*.rar
+*.zip
+*.log
+
+# Skill 生成的本地结果
+*_解读.md
+*_汇报大纲.md
